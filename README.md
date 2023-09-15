@@ -59,12 +59,10 @@ Our fashion AI assistant, powered by GenAI, addresses this challenge by generati
 
 ### Built With
 
-- [![OpenAI API](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 - [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 - [![Express js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 - [![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 - [![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-- [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 - [![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,8 +85,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get your Bard unofficial API KEY. To get the key, press ctrl + shift + I to get into the developer console. After that go under Applications tab >   
-   Cookies > bard.google.com, and paste the __Secure-3PSID value as the API KEY. 
+1. Get your Bard unofficial API KEY. To get the key, press ctrl + shift + I to get into the developer console. After that go under Applications tab   
+   > Cookies > bard.google.com, and paste the __Secure-3PSID value as the API KEY. 
 2. Clone the repo
    ```sh
    git clone https://github.com/debanjan/fashion-flair.git
@@ -97,13 +95,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `/.env`
-   ```bash
-    OPENAI_API_KEY = 'ENTER YOUR API'
-    MONGO_URL='ENTER YOUR API'
-    SESSION_SECRET='ENTER YOUR API'
-    JWT_SECRET='ENTER YOUR API'
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
