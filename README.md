@@ -87,7 +87,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free OPENAI API Key at [https://openai.com/](https://openai.com/)
+1. Get your Bard unofficial API KEY. To get the key, press ctrl + shift + I to get into the developer console. After that go under Applications tab >   
+   Cookies > bard.google.com, and paste the __Secure-3PSID value as the API KEY. 
 2. Clone the repo
    ```sh
    git clone https://github.com/debanjan/fashion-flair.git
@@ -220,17 +221,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Adrishyantee Maiti - [@adrishyantee](https://linkedin.com/in/adrishyantee) - adrishyantee@gmail.com
-
-Debanjan Poddar - [@debanjan](https://linkedin.com/in/debanjan-poddar) - debanjan.edu.2002@gmail.com
-
-Project Link: [https://github.com/debanjan-2002/fashion-flair](https://github.com/debanjan-2002/fashion-flair)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
