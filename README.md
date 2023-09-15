@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/debanjan-2002/fashion-flair">
+  <a href="https://github.com/SquirtleSquad-5-0/flipbot">
     <img src="client/public/logo-big.png" alt="Logo" height="80">
   </a>
 
@@ -13,11 +13,6 @@
     Your personalised AI fashion assistant!
     <br />
     <br />
-    <a href="https://youtube.com/adrishyantee">View Demo</a>
-    ·
-    <a href="https://github.com/debanjan-2002/fashion-flair/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/debanjan-2002/fashion-flair/issues">Request Feature</a>
   </p>
 </div>
 
